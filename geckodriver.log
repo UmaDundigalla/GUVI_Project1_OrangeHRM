@@ -1,0 +1,581 @@
+1663789668891	geckodriver	INFO	Listening on 127.0.0.1:54326
+1663789671937	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54327" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vk3le\\AppData\\Local\\Temp\\rust_mozprofile6b4sKV"
+1663789672436	Marionette	INFO	Marionette enabled
+1663789672444	Marionette	INFO	Listening on port 54336
+WebDriver BiDi listening on ws://localhost:54327
+Read port: 54336
+1663789672683	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vk3le\\AppData\\Local\\Temp\\rust_mozprofile6b4sKV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54327/devtools/browser/0a4b65da-9e52-4eaa-a70f-090f25943452
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1663790281822	Marionette	INFO	Stopped listening on port 54336
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1663790367393	geckodriver	INFO	Listening on 127.0.0.1:54496
+1663790370478	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54497" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vk3le\\AppData\\Local\\Temp\\rust_mozprofileyS4q8o"
+1663790370985	Marionette	INFO	Marionette enabled
+1663790370991	Marionette	INFO	Listening on port 54506
+WebDriver BiDi listening on ws://localhost:54497
+Read port: 54506
+1663790371128	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vk3le\\AppData\\Local\\Temp\\rust_mozprofileyS4q8o\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54497/devtools/browser/07cc76cb-b22c-4bad-96c1-715d629fb64e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1663792278463	Marionette	INFO	Stopped listening on port 54506
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "54549" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vk3le\\AppData\\Local\\Temp\\rust_mozprofileU78F2X"
+1663790419157	Marionette	INFO	Marionette enabled
+1663790419162	Marionette	INFO	Listening on port 54558
+WebDriver BiDi listening on ws://localhost:54549
+Read port: 54558
+1663790419266	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vk3le\\AppData\\Local\\Temp\\rust_mozprofileU78F2X\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54549/devtools/browser/b96004b3-376c-4472-8ace-0cf02c214ce4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1663790432192	Marionette	INFO	Stopped listening on port 54558
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1663790527878	geckodriver	INFO	Listening on 127.0.0.1:54611
+1663790530974	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54612" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vk3le\\AppData\\Local\\Temp\\rust_mozprofile9RTz7R"
+1663790531369	Marionette	INFO	Marionette enabled
+1663790531372	Marionette	INFO	Listening on port 54621
+WebDriver BiDi listening on ws://localhost:54612
+Read port: 54621
+1663790531476	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vk3le\\AppData\\Local\\Temp\\rust_mozprofile9RTz7R\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54612/devtools/browser/cfb18ba4-dde4-48bc-b4ef-89f0143f8beb
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1663792278934	Marionette	INFO	Stopped listening on port 54621
+[Parent 23140, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+p\\rust_mozprofilemetDbz"
+1663790812673	Marionette	INFO	Marionette enabled
+1663790812678	Marionette	INFO	Listening on port 54707
+WebDriver BiDi listening on ws://localhost:54698
+Read port: 54707
+1663790812868	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vk3le\\AppData\\Local\\Temp\\rust_mozprofilemetDbz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54698/devtools/browser/302b871f-bf47-49fc-b7ca-c3ecce71c139
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1663792278305	Marionette	INFO	Stopped listening on port 54707
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "54745" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vk3le\\AppData\\Local\\Temp\\rust_mozprofilevsw2Pu"
+1663790864050	Marionette	INFO	Marionette enabled
+1663790864055	Marionette	INFO	Listening on port 54754
+WebDriver BiDi listening on ws://localhost:54745
+Read port: 54754
+1663790864182	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vk3le\\AppData\\Local\\Temp\\rust_mozprofilevsw2Pu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54745/devtools/browser/d2c9369c-de7b-4b10-9208-c7c067696fa3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1663792278251	Marionette	INFO	Stopped listening on port 54754
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1663793749002	geckodriver	INFO	Listening on 127.0.0.1:55719
+1663793752094	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55720" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vk3le\\AppData\\Local\\Temp\\rust_mozprofileCEAPQx"
+1663793752509	Marionette	INFO	Marionette enabled
+1663793752515	Marionette	INFO	Listening on port 55729
+WebDriver BiDi listening on ws://localhost:55720
+Read port: 55729
+1663793752638	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vk3le\\AppData\\Local\\Temp\\rust_mozprofileCEAPQx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55720/devtools/browser/96a52e14-f976-4d06-8c2c-401682aaabc6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1663794092481	Marionette	INFO	Stopped listening on port 55729
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 21908, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+\\Temp\\rust_mozprofileDXoYv6"
+1663793869631	Marionette	INFO	Marionette enabled
+1663793869636	Marionette	INFO	Listening on port 55792
+WebDriver BiDi listening on ws://localhost:55783
+Read port: 55792
+1663793869765	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vk3le\\AppData\\Local\\Temp\\rust_mozprofileDXoYv6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55783/devtools/browser/86085173-35b8-4b01-b11d-7769376fe27a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+1663794094353	Marionette	INFO	Stopped listening on port 55792
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "55845" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vk3le\\AppData\\Local\\Temp\\rust_mozprofileCSIKRw"
+1663793988981	Marionette	INFO	Marionette enabled
+1663793988986	Marionette	INFO	Listening on port 55854
+WebDriver BiDi listening on ws://localhost:55845
+Read port: 55854
+1663793989095	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vk3le\\AppData\\Local\\Temp\\rust_mozprofileCSIKRw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55845/devtools/browser/53b6a440-9a3a-4e06-b6b6-3261db22f1d9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+1663794095846	Marionette	INFO	Stopped listening on port 55854
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "55900" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vk3le\\AppData\\Local\\Temp\\rust_mozprofile2c7nfv"
+1663794051030	Marionette	INFO	Marionette enabled
+1663794051034	Marionette	INFO	Listening on port 55912
+WebDriver BiDi listening on ws://localhost:55900
+Read port: 55912
+1663794051282	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vk3le\\AppData\\Local\\Temp\\rust_mozprofile2c7nfv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55900/devtools/browser/1c659078-7b95-472b-b218-4286820ce189
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+1663794076985	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+1663794837130	Marionette	INFO	Stopped listening on port 55912
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "55984" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vk3le\\AppData\\Local\\Temp\\rust_mozprofilezBcFiM"
+1663794285001	Marionette	INFO	Marionette enabled
+1663794285005	Marionette	INFO	Listening on port 55993
+WebDriver BiDi listening on ws://localhost:55984
+Read port: 55993
+1663794285225	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vk3le\\AppData\\Local\\Temp\\rust_mozprofilezBcFiM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55984/devtools/browser/91d6dcc8-8dd8-41d9-8984-03773e47ee26
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+1663794838352	Marionette	INFO	Stopped listening on port 55993
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "56069" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vk3le\\AppData\\Local\\Temp\\rust_mozprofileB1lPpM"
+1663794489669	Marionette	INFO	Marionette enabled
+1663794489674	Marionette	INFO	Listening on port 56078
+WebDriver BiDi listening on ws://localhost:56069
+Read port: 56078
+1663794489780	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vk3le\\AppData\\Local\\Temp\\rust_mozprofileB1lPpM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56069/devtools/browser/927ea638-0378-435c-887b-17ffb9414786
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1663794840561	Marionette	INFO	Stopped listening on port 56078
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "56117" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vk3le\\AppData\\Local\\Temp\\rust_mozprofileAp73KY"
+1663794524224	Marionette	INFO	Marionette enabled
+1663794524228	Marionette	INFO	Listening on port 56126
+WebDriver BiDi listening on ws://localhost:56117
+Read port: 56126
+1663794524350	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vk3le\\AppData\\Local\\Temp\\rust_mozprofileAp73KY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56117/devtools/browser/0e994444-7f24-432f-9208-b00c5a2b6e7b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1663794841986	Marionette	INFO	Stopped listening on port 56126
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "56172" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vk3le\\AppData\\Local\\Temp\\rust_mozprofile8Lkt2e"
+1663794574696	Marionette	INFO	Marionette enabled
+1663794574700	Marionette	INFO	Listening on port 56181
+WebDriver BiDi listening on ws://localhost:56172
+Read port: 56181
+1663794574808	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vk3le\\AppData\\Local\\Temp\\rust_mozprofile8Lkt2e\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56172/devtools/browser/447b2fb2-08fe-43b0-bc5b-0dc712ea3bb8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1663794844162	Marionette	INFO	Stopped listening on port 56181
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "56223" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vk3le\\AppData\\Local\\Temp\\rust_mozprofileUDm86F"
+1663794611521	Marionette	INFO	Marionette enabled
+1663794611526	Marionette	INFO	Listening on port 56232
+WebDriver BiDi listening on ws://localhost:56223
+Read port: 56232
+1663794611702	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vk3le\\AppData\\Local\\Temp\\rust_mozprofileUDm86F\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56223/devtools/browser/b7f844eb-de7a-4e57-9645-2cd5a88c7fe1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1663794647390	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1663794845980	Marionette	INFO	Stopped listening on port 56232
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "56271" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vk3le\\AppData\\Local\\Temp\\rust_mozprofilekFpXtG"
+1663794680191	Marionette	INFO	Marionette enabled
+1663794680198	Marionette	INFO	Listening on port 56280
+WebDriver BiDi listening on ws://localhost:56271
+Read port: 56280
+1663794680338	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vk3le\\AppData\\Local\\Temp\\rust_mozprofilekFpXtG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56271/devtools/browser/861b8fd0-1dc3-4087-89a8-fca85b9a0f5e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+1663794754955	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1663794756191	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1663794757431	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1663794758657	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/app.js?1660914792648, line 1: TypeError: t.match is not a function
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/app.js?1660914792648, line 1: TypeError: t.match is not a function
+1663794761360	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+1663794815574	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1663794847767	Marionette	INFO	Stopped listening on port 56280
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "56356" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vk3le\\AppData\\Local\\Temp\\rust_mozprofileCAvX8W"
+1663794832502	Marionette	INFO	Marionette enabled
+1663794832506	Marionette	INFO	Listening on port 56365
+WebDriver BiDi listening on ws://localhost:56356
+Read port: 56365
+1663794832627	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vk3le\\AppData\\Local\\Temp\\rust_mozprofileCAvX8W\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56356/devtools/browser/46b9b4ff-3bf8-4a84-be84-a479b6b96367
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1663794874279	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1663794875066	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1663794875798	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1663795019971	Marionette	INFO	Stopped listening on port 56365
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "56414" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vk3le\\AppData\\Local\\Temp\\rust_mozprofilegpd0nK"
+1663794886229	Marionette	INFO	Marionette enabled
+1663794886233	Marionette	INFO	Listening on port 56423
+WebDriver BiDi listening on ws://localhost:56414
+Read port: 56423
+1663794886338	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vk3le\\AppData\\Local\\Temp\\rust_mozprofilegpd0nK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56414/devtools/browser/b11e901d-9755-4ada-ab87-01c518fc3193
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1663795018696	Marionette	INFO	Stopped listening on port 56423
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 10244, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+\\Temp\\rust_mozprofiledYkBSr"
+1663794966445	Marionette	INFO	Marionette enabled
+1663794966450	Marionette	INFO	Listening on port 56477
+WebDriver BiDi listening on ws://localhost:56468
+Read port: 56477
+1663794966660	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vk3le\\AppData\\Local\\Temp\\rust_mozprofiledYkBSr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56468/devtools/browser/d61310b0-f8aa-4af7-8196-7cf9c97bda50
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1663795300820	Marionette	INFO	Stopped listening on port 56477
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "56517" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vk3le\\AppData\\Local\\Temp\\rust_mozprofile8UPmw9"
+1663795024246	Marionette	INFO	Marionette enabled
+1663795024250	Marionette	INFO	Listening on port 56530
+WebDriver BiDi listening on ws://localhost:56517
+Read port: 56530
+1663795024490	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vk3le\\AppData\\Local\\Temp\\rust_mozprofile8UPmw9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56517/devtools/browser/336d4efa-0356-4a97-a127-13ac6e80489c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1663795302238	Marionette	INFO	Stopped listening on port 56530
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "56573" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vk3le\\AppData\\Local\\Temp\\rust_mozprofile0ljM4z"
+1663795055211	Marionette	INFO	Marionette enabled
+1663795055215	Marionette	INFO	Listening on port 56582
+WebDriver BiDi listening on ws://localhost:56573
+Read port: 56582
+1663795055322	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vk3le\\AppData\\Local\\Temp\\rust_mozprofile0ljM4z\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56573/devtools/browser/78dd8ea1-7de8-4b9c-a702-24ccac2682f1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1663795096295	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1663795303599	Marionette	INFO	Stopped listening on port 56582
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 9524, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+l\\Temp\\rust_mozprofileVxmWRV"
+1663795111649	Marionette	INFO	Marionette enabled
+1663795111653	Marionette	INFO	Listening on port 56639
+WebDriver BiDi listening on ws://localhost:56630
+Read port: 56639
+1663795111782	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vk3le\\AppData\\Local\\Temp\\rust_mozprofileVxmWRV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56630/devtools/browser/3d8e646e-df36-4786-8b33-87ff05541d6a
+1663795305346	Marionette	INFO	Stopped listening on port 56639
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "56682" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vk3le\\AppData\\Local\\Temp\\rust_mozprofilePejuvz"
+1663795275663	Marionette	INFO	Marionette enabled
+1663795275667	Marionette	INFO	Listening on port 56691
+WebDriver BiDi listening on ws://localhost:56682
+Read port: 56691
+1663795275778	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vk3le\\AppData\\Local\\Temp\\rust_mozprofilePejuvz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56682/devtools/browser/1dc96771-9f28-4120-a42d-86e52427f624
+1663795320095	Marionette	INFO	Stopped listening on port 56691
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1663795327085	geckodriver	INFO	Listening on 127.0.0.1:56738
+1663795330140	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56739" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vk3le\\AppData\\Local\\Temp\\rust_mozprofileVl3LQF"
+1663795330525	Marionette	INFO	Marionette enabled
+1663795330529	Marionette	INFO	Listening on port 56748
+WebDriver BiDi listening on ws://localhost:56739
+Read port: 56748
+1663795330641	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vk3le\\AppData\\Local\\Temp\\rust_mozprofileVl3LQF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56739/devtools/browser/2ea874a7-ae98-46a6-a052-beb646d3a39d
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1663795361899	Marionette	INFO	Stopped listening on port 56748
+!!! error running onStopped callback: TypeError: callback is not a function
+1663795470277	geckodriver	INFO	Listening on 127.0.0.1:56802
+1663795473328	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56803" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vk3le\\AppData\\Local\\Temp\\rust_mozprofileO4caZl"
+1663795473628	Marionette	INFO	Marionette enabled
+1663795473631	Marionette	INFO	Listening on port 56812
+WebDriver BiDi listening on ws://localhost:56803
+Read port: 56812
+1663795473731	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vk3le\\AppData\\Local\\Temp\\rust_mozprofileO4caZl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56803/devtools/browser/03fb31ba-3582-43db-aac3-9e843fd2fd97
+1663795519438	Marionette	INFO	Stopped listening on port 56812
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1663796381324	geckodriver	INFO	Listening on 127.0.0.1:50098
+1663796384367	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50099" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vk3le\\AppData\\Local\\Temp\\rust_mozprofileB3Vp5X"
+1663796384755	Marionette	INFO	Marionette enabled
+1663796384758	Marionette	INFO	Listening on port 50108
+WebDriver BiDi listening on ws://localhost:50099
+Read port: 50108
+1663796384858	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vk3le\\AppData\\Local\\Temp\\rust_mozprofileB3Vp5X\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50099/devtools/browser/9de8a113-293a-421c-8b8c-bc7741a9576f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1663796700039	Marionette	INFO	Stopped listening on port 50108
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 8312, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+l\\Temp\\rust_mozprofileyfUU10"
+1663796532834	Marionette	INFO	Marionette enabled
+1663796532838	Marionette	INFO	Listening on port 50181
+WebDriver BiDi listening on ws://localhost:50172
+Read port: 50181
+1663796532940	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vk3le\\AppData\\Local\\Temp\\rust_mozprofileyfUU10\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50172/devtools/browser/2356c59c-4cf6-4773-9ba9-e3dd5b3c4214
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+1663796699926	Marionette	INFO	Stopped listening on port 50181
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 1536, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+l\\Temp\\rust_mozprofileYat511"
+1663796601399	Marionette	INFO	Marionette enabled
+1663796601405	Marionette	INFO	Listening on port 50237
+WebDriver BiDi listening on ws://localhost:50228
+Read port: 50237
+1663796601600	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vk3le\\AppData\\Local\\Temp\\rust_mozprofileYat511\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50228/devtools/browser/2769a031-b30b-40d4-8707-afd40eb38598
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+1663796699918	Marionette	INFO	Stopped listening on port 50237
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 15300, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1663797029490	geckodriver	INFO	Listening on 127.0.0.1:50490
+1663797032535	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50491" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vk3le\\AppData\\Local\\Temp\\rust_mozprofile5FSpgi"
+1663797032844	Marionette	INFO	Marionette enabled
+1663797032848	Marionette	INFO	Listening on port 50500
+WebDriver BiDi listening on ws://localhost:50491
+Read port: 50500
+1663797032956	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vk3le\\AppData\\Local\\Temp\\rust_mozprofile5FSpgi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50491/devtools/browser/ccb26c53-ca48-4f44-aa1c-23d3b46a2ec7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1663798741253	Marionette	INFO	Stopped listening on port 50500
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "50967" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vk3le\\AppData\\Local\\Temp\\rust_mozprofileBks6s3"
+1663798219503	Marionette	INFO	Marionette enabled
+1663798219507	Marionette	INFO	Listening on port 50976
+WebDriver BiDi listening on ws://localhost:50967
+Read port: 50976
+1663798219621	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vk3le\\AppData\\Local\\Temp\\rust_mozprofileBks6s3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50967/devtools/browser/3bb2f1f3-0f4e-42f1-87cd-26d52d2e1b37
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+1663798304459	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1663798306856	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?1660914792648, line 1: Error: Request aborted
+1663798735330	Marionette	INFO	Stopped listening on port 50976
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "51109" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vk3le\\AppData\\Local\\Temp\\rust_mozprofile11kA0c"
+1663798511068	Marionette	INFO	Marionette enabled
+1663798511072	Marionette	INFO	Listening on port 51118
+WebDriver BiDi listening on ws://localhost:51109
+Read port: 51118
+1663798511195	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vk3le\\AppData\\Local\\Temp\\rust_mozprofile11kA0c\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51109/devtools/browser/7170401f-5a28-48b6-880f-7029b7b2fbfa
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1663798733901	Marionette	INFO	Stopped listening on port 51118
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "51167" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vk3le\\AppData\\Local\\Temp\\rust_mozprofilec7CisK"
+1663798568725	Marionette	INFO	Marionette enabled
+1663798568729	Marionette	INFO	Listening on port 51176
+WebDriver BiDi listening on ws://localhost:51167
+Read port: 51176
+1663798568848	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vk3le\\AppData\\Local\\Temp\\rust_mozprofilec7CisK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51167/devtools/browser/8af73f4b-5b36-4bfa-9bea-fa0d78f52b48
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1663798588415	Marionette	INFO	Stopped listening on port 51176
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1663798676616	geckodriver	INFO	Listening on 127.0.0.1:51238
+1663798679683	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51239" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vk3le\\AppData\\Local\\Temp\\rust_mozprofileY6uhRA"
+1663798680062	Marionette	INFO	Marionette enabled
+1663798680066	Marionette	INFO	Listening on port 51248
+WebDriver BiDi listening on ws://localhost:51239
+Read port: 51248
+1663798680177	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vk3le\\AppData\\Local\\Temp\\rust_mozprofileY6uhRA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51239/devtools/browser/884b0d18-b448-484e-8040-f370f113a7f6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1663798732011	Marionette	INFO	Stopped listening on port 51248
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "51290" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vk3le\\AppData\\Local\\Temp\\rust_mozprofilebtmeJR"
+1663798715452	Marionette	INFO	Marionette enabled
+1663798715456	Marionette	INFO	Listening on port 51299
+Read port: 51299
+WebDriver BiDi listening on ws://localhost:51290
+1663798715588	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vk3le\\AppData\\Local\\Temp\\rust_mozprofilebtmeJR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51290/devtools/browser/cf2e1cb1-e5bc-4506-b0b5-b295e832b912
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1663798747545	Marionette	INFO	Stopped listening on port 51299
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1663798755969	geckodriver	INFO	Listening on 127.0.0.1:51350
+1663798759010	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51351" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vk3le\\AppData\\Local\\Temp\\rust_mozprofile4U17ep"
+1663798759378	Marionette	INFO	Marionette enabled
+1663798759382	Marionette	INFO	Listening on port 51361
+WebDriver BiDi listening on ws://localhost:51351
+Read port: 51361
+1663798759562	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vk3le\\AppData\\Local\\Temp\\rust_mozprofile4U17ep\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51351/devtools/browser/7895b9fe-0db2-4db1-85c9-c100f9c31f5b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1663798807042	geckodriver	INFO	Listening on 127.0.0.1:51400
+1663798810105	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51401" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vk3le\\AppData\\Local\\Temp\\rust_mozprofileP2Jdd5"
+1663798810419	Marionette	INFO	Marionette enabled
+1663798810423	Marionette	INFO	Listening on port 51412
+Read port: 51412
+WebDriver BiDi listening on ws://localhost:51401
+1663798810530	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vk3le\\AppData\\Local\\Temp\\rust_mozprofileP2Jdd5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51401/devtools/browser/da8e018b-c699-4ac9-b065-39910765de78
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1663799029492	Marionette	INFO	Stopped listening on port 51412
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.

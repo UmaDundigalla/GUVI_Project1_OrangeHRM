@@ -10,6 +10,9 @@ from PageObjects.PIM import CreateNewEmployee
 from PageObjects.PIM_NewEmployee_personaldetails import NewEmployee_Personal_Detail
 
 
+def random_generator(size=4, chars=string.digits):
+    return ''.join(random.choice(chars) for x in range(size))
+
 
 class Test_CreateEmployee:
 
@@ -21,11 +24,12 @@ class Test_CreateEmployee:
     firstname = ReadConfig.getFirstName()
     middlename = ReadConfig.getMiddleName()
     lastname = ReadConfig.getLastName()
+    photo = "TestData//user_image.png"
 
 #pim personal details
     nickname = "dundigalla"
     otherid = "888"
-    licenseno = "789"
+    licenseno1 = "789"
     expirydate = "2024-04-30"
     ssn = "456-789-456"
     sin = "909012456"
@@ -41,8 +45,8 @@ class Test_CreateEmployee:
     homephno = "9756642587"
     mobileno = "9752145633"
     work = "8579212396"
-    email = "marvel001@gmail.com"
-    otheremail = "marvel002t01@gmail.com"
+    email = random_generator(1) + "@gmail.com"
+    otheremail = random_generator(2) + "@gmail.com"
 
 #pim emergency details
     name = "prem"
@@ -61,7 +65,7 @@ class Test_CreateEmployee:
     expirydate1 = "2023-07-01"
     eligiblestatus = "Eligible"
     reviewdate = "2022-01-01"
-    command = "success"
+    comments1 = "success"
 
 #pim job
     joineddate = "2018-04-2"
@@ -69,7 +73,7 @@ class Test_CreateEmployee:
 #pim salary details
     salcomponent = "hike"
     amount1 = "35000"
-    comments = "this is my salary"
+    comments2 = "this is my salary"
     acountno = "87452369995"
     routingno = "874"
     amount2 = "12000"
@@ -80,14 +84,14 @@ class Test_CreateEmployee:
 
     # report to
     suprname = "L"
-    subname = "A"
+    subname = "C"
 
     # qualification(workexperience)
     company = "zzzcorporation"
     jobtitle = "seniorofficer"
     fromdate = "2017-07-15"
     todate = "2022-04-19"
-    comments = "work experience"
+    comments3 = "work experience"
 
     # qualification(eduction)
     institute = "cmeccollege"
@@ -98,11 +102,11 @@ class Test_CreateEmployee:
     enddate = "2022-05-26"
     # qualification(skills)
     yearofexp = "3"
-    comments1 = "skills"
+    comments4 = "skills"
     # qualification(language)
-    comments2 = "languages"
+    comments5 = "languages"
     # qualification(license)
-    licenseno = "777"
+    licenseno2 = "777"
     issueddate = "2016-10-24"
     expirydate2 = "2024-04-30"
 
@@ -126,11 +130,11 @@ class Test_CreateEmployee:
         lp.click_login()
         emp = CreateNewEmployee(self.driver)
         self.logger.info("********tc002 PIM-Creating New Employee******")
-        emp.pim(self.firstname, self.lastname)
+        emp.pim(self.firstname, self.lastname, self.photo)
         self.logger.info("*******New Employee is Created*****")
         detail1 = NewEmployee_Personal_Detail(self.driver)
         time.sleep(10)
-        detail1.personal_details(self.nickname,self.otherid,self.licenseno,self.expirydate,self.ssn,self.sin,self.dob,self.militaryservice)
+        detail1.personal_details(self.nickname,self.otherid,self.licenseno1,self.expirydate,self.ssn,self.sin,self.dob,self.militaryservice)
         self.logger.info("*******Personal Details are added*******")
         self.driver.execute_script("window.scrollBy(0,-2000)", "")
         detail2 = NewEmployee_Personal_Detail(self.driver)
@@ -143,13 +147,13 @@ class Test_CreateEmployee:
         detail4.dependent(self.name1, self.dob1)
         self.logger.info("********Dependent is Added******")
         detail5 = NewEmployee_Personal_Detail(self.driver)
-        detail5.immigration(self.number,self.issueddate1,self.expirydate1,self.eligiblestatus,self.reviewdate,self.command)
+        detail5.immigration(self.number,self.issueddate1,self.expirydate1,self.eligiblestatus,self.reviewdate,self.comments1)
         self.logger.info("********Immigration Details are Added******")
         detail6 = NewEmployee_Personal_Detail(self.driver)
         detail6.job_details(self.joineddate)
         self.logger.info("******Job Details are Added*******")
         detail7 = NewEmployee_Personal_Detail(self.driver)
-        detail7.salary_details(self.salcomponent,self.amount1,self.comments,self.acountno,self.routingno,self.amount2)
+        detail7.salary_details(self.salcomponent,self.amount1,self.comments2,self.acountno,self.routingno,self.amount2)
         self.logger.info("*******Salary Details are Added********")
         details8 = NewEmployee_Personal_Detail(self.driver)
         details8.tax_details(self.fedexamption,self.stateexemption)
@@ -158,22 +162,24 @@ class Test_CreateEmployee:
         details9.report_to(self.suprname, self.subname)
         self.logger.info("******Reports are included*******")
         details10 = NewEmployee_Personal_Detail(self.driver)
-        details10.qualification_wrk_experience(self.company,self.jobtitle,self.fromdate,self.todate,self.comments)
+        details10.qualification_wrk_experience(self.company,self.jobtitle,self.fromdate,self.todate,self.comments3)
         self.logger.info("*******Work Experience is added******")
         details11 = NewEmployee_Personal_Detail(self.driver)
         details11.qualification_education(self.institute,self.major,self.year,self.gpa,self.startdate,self.enddate)
         self.logger.info("********Education is added*******")
         details12 = NewEmployee_Personal_Detail(self.driver)
-        details12.qualification_skills(self.yearofexp,self.comments)
+        details12.qualification_skills(self.yearofexp,self.comments4)
         self.logger.info("********Skills are added*******")
         details13 = NewEmployee_Personal_Detail(self.driver)
-        details13.qualification_language(self.comments)
+        details13.qualification_language(self.comments5)
         self.logger.info("********Languages are added*******")
         details14 = NewEmployee_Personal_Detail(self.driver)
-        details14.qualification_license(self.licenseno,self.issueddate,self.expirydate2)
+        details14.qualification_license(self.licenseno2,self.issueddate,self.expirydate2)
         self.logger.info("********License Details are added*******")
         self.driver.execute_script("window.scrollBy(0,-2000)", "")
         details15 = NewEmployee_Personal_Detail(self.driver)
         details15.membership(self.supsamount,self.supscommencedate,self.renewaldate)
         self.logger.info("*******Membership is added******")
         self.logger.info("******Ending tc002_PIM_CreateNewEmployee******")
+
+

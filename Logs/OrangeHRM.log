@@ -2111,3 +2111,124 @@
 2022-09-22 03:50:17,097:INFO:******Login with New User details********
 2022-09-22 03:50:19,536:INFO:******Login is Successful
 2022-09-22 03:50:19,536:INFO:******Ending tc005_Login_NewUser********
+2022-09-22 12:50:03,730:INFO:====== WebDriver manager ======
+2022-09-22 12:50:04,370:INFO:Get LATEST geckodriver version for 104.0 firefox
+2022-09-22 12:50:05,376:INFO:Driver [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.31\geckodriver.exe] found in cache
+2022-09-22 12:50:18,044:INFO:********tc002 PIM-Creating New Employee******
+2022-09-22 12:50:20,200:INFO:*******New Employee is Created*****
+2022-09-22 12:51:14,421:INFO:====== WebDriver manager ======
+2022-09-22 12:51:15,049:INFO:Get LATEST geckodriver version for 104.0 firefox
+2022-09-22 12:51:16,033:INFO:Driver [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.31\geckodriver.exe] found in cache
+2022-09-22 12:51:26,467:INFO:********tc002 PIM-Creating New Employee******
+2022-09-22 12:51:28,494:INFO:*******New Employee is Created*****
+2022-09-22 15:02:51,652:INFO:====== WebDriver manager ======
+2022-09-22 15:02:52,402:INFO:Get LATEST geckodriver version for 104.0 firefox
+2022-09-22 15:02:53,492:INFO:Driver [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.31\geckodriver.exe] found in cache
+2022-09-22 15:03:04,109:INFO:********tc002 PIM-Creating New Employee******
+2022-09-22 15:03:06,193:INFO:*******New Employee is Created*****
+2022-09-22 15:03:23,193:INFO:*******Personal Details are added*******
+2022-09-22 15:03:37,453:INFO:******Contact Details are added********
+2022-09-22 15:03:41,783:INFO:******Emergency Details are added********
+2022-09-22 15:03:46,433:INFO:********Dependent is Added******
+2022-09-22 15:03:48,413:INFO:********Immigration Details are Added******
+2022-09-22 15:04:01,863:INFO:******Job Details are Added*******
+2022-09-22 15:04:06,906:INFO:*******Salary Details are Added********
+2022-09-22 15:04:10,955:INFO:*******Tax Details are Added********
+2022-09-22 22:18:45,963:INFO:====== WebDriver manager ======
+2022-09-22 22:18:46,983:INFO:Get LATEST geckodriver version for 104.0 firefox
+2022-09-22 22:18:48,294:INFO:Driver [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.31\geckodriver.exe] found in cache
+2022-09-22 22:18:59,059:INFO:********tc002 PIM-Creating New Employee******
+2022-09-22 22:19:01,188:INFO:*******New Employee is Created*****
+2022-09-22 22:19:18,183:INFO:*******Personal Details are added*******
+2022-09-22 22:19:32,722:INFO:******Contact Details are added********
+2022-09-22 22:19:36,905:INFO:******Emergency Details are added********
+2022-09-22 22:19:41,522:INFO:********Dependent is Added******
+2022-09-22 22:19:43,559:INFO:********Immigration Details are Added******
+2022-09-22 22:19:56,990:INFO:******Job Details are Added*******
+2022-09-22 22:20:01,636:INFO:*******Salary Details are Added********
+2022-09-22 22:20:05,872:INFO:*******Tax Details are Added********
+2022-09-22 22:21:26,800:INFO:====== WebDriver manager ======
+2022-09-22 22:21:27,464:INFO:Get LATEST geckodriver version for 104.0 firefox
+2022-09-22 22:21:28,512:INFO:Driver [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.31\geckodriver.exe] found in cache
+2022-09-22 22:21:39,038:INFO:********tc002 PIM-Creating New Employee******
+2022-09-22 22:22:46,128:INFO:====== WebDriver manager ======
+2022-09-22 22:22:46,788:INFO:Get LATEST geckodriver version for 104.0 firefox
+2022-09-22 22:22:47,874:INFO:Driver [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.31\geckodriver.exe] found in cache
+2022-09-22 22:23:14,948:INFO:********tc002 PIM-Creating New Employee******
+2022-09-22 22:23:56,364:INFO:*******New Employee is Created*****
+2022-09-22 22:24:54,169:INFO:*******Personal Details are added*******
+2022-09-22 22:25:47,143:INFO:====== WebDriver manager ======
+2022-09-22 22:25:48,028:INFO:Get LATEST geckodriver version for 104.0 firefox
+2022-09-22 22:25:48,859:INFO:Driver [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.31\geckodriver.exe] found in cache
+2022-09-22 22:25:59,204:INFO:********tc002 PIM-Creating New Employee******
+2022-09-22 22:26:04,048:INFO:*******New Employee is Created*****
+2022-09-22 22:26:21,038:INFO:*******Personal Details are added*******
+2022-09-22 22:26:35,344:INFO:******Contact Details are added********
+2022-09-22 22:26:39,630:INFO:******Emergency Details are added********
+2022-09-22 22:26:44,268:INFO:********Dependent is Added******
+2022-09-22 22:26:46,200:INFO:********Immigration Details are Added******
+2022-09-22 22:26:59,586:INFO:******Job Details are Added*******
+2022-09-22 22:27:04,595:INFO:*******Salary Details are Added********
+2022-09-22 22:27:08,729:INFO:*******Tax Details are Added********
+2022-09-22 22:28:15,361:INFO:====== WebDriver manager ======
+2022-09-22 22:28:15,966:INFO:Get LATEST geckodriver version for 104.0 firefox
+2022-09-22 22:28:17,061:INFO:Driver [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.31\geckodriver.exe] found in cache
+2022-09-22 22:28:26,984:INFO:********tc002 PIM-Creating New Employee******
+2022-09-22 22:28:29,076:INFO:*******New Employee is Created*****
+2022-09-22 22:28:45,989:INFO:*******Personal Details are added*******
+2022-09-22 22:29:00,260:INFO:******Contact Details are added********
+2022-09-22 22:29:04,496:INFO:******Emergency Details are added********
+2022-09-22 22:29:09,117:INFO:********Dependent is Added******
+2022-09-22 22:29:11,481:INFO:********Immigration Details are Added******
+2022-09-22 22:29:26,350:INFO:******Job Details are Added*******
+2022-09-22 22:29:31,365:INFO:*******Salary Details are Added********
+2022-09-22 22:29:35,884:INFO:*******Tax Details are Added********
+2022-09-22 22:30:01,544:INFO:******Reports are included*******
+2022-09-22 22:30:03,075:INFO:*******Work Experience is added******
+2022-09-22 22:30:10,170:INFO:********Education is added*******
+2022-09-22 22:31:30,405:INFO:====== WebDriver manager ======
+2022-09-22 22:31:30,959:INFO:Get LATEST geckodriver version for 104.0 firefox
+2022-09-22 22:31:32,058:INFO:Driver [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.31\geckodriver.exe] found in cache
+2022-09-22 22:31:43,102:INFO:********tc002 PIM-Creating New Employee******
+2022-09-22 22:31:48,139:INFO:*******New Employee is Created*****
+2022-09-22 22:32:07,824:INFO:*******Personal Details are added*******
+2022-09-22 22:32:24,423:INFO:******Contact Details are added********
+2022-09-22 22:32:29,574:INFO:******Emergency Details are added********
+2022-09-22 22:32:35,905:INFO:********Dependent is Added******
+2022-09-22 22:32:40,505:INFO:********Immigration Details are Added******
+2022-09-22 22:32:58,858:INFO:******Job Details are Added*******
+2022-09-22 22:33:07,456:INFO:*******Salary Details are Added********
+2022-09-22 22:33:16,590:INFO:*******Tax Details are Added********
+2022-09-22 22:33:46,441:INFO:******Reports are included*******
+2022-09-22 22:33:48,006:INFO:*******Work Experience is added******
+2022-09-22 22:33:55,757:INFO:********Education is added*******
+2022-09-22 22:34:01,803:INFO:********Skills are added*******
+2022-09-22 22:34:10,283:INFO:********Languages are added*******
+2022-09-22 22:34:15,815:INFO:********License Details are added*******
+2022-09-22 22:34:33,323:INFO:*******Membership is added******
+2022-09-22 22:34:33,323:INFO:******Ending tc002_PIM_CreateNewEmployee******
+2022-09-22 22:34:57,174:INFO:====== WebDriver manager ======
+2022-09-22 22:34:57,964:INFO:Get LATEST geckodriver version for 104.0 firefox
+2022-09-22 22:34:59,019:INFO:Driver [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.31\geckodriver.exe] found in cache
+2022-09-22 22:35:11,033:INFO:********tc002 PIM-Creating New Employee******
+2022-09-22 22:35:15,270:INFO:*******New Employee is Created*****
+2022-09-22 22:35:32,212:INFO:*******Personal Details are added*******
+2022-09-22 22:35:46,421:INFO:******Contact Details are added********
+2022-09-22 22:35:50,637:INFO:******Emergency Details are added********
+2022-09-22 22:35:55,366:INFO:********Dependent is Added******
+2022-09-22 22:35:57,458:INFO:********Immigration Details are Added******
+2022-09-22 22:36:12,316:INFO:******Job Details are Added*******
+2022-09-22 22:36:18,055:INFO:*******Salary Details are Added********
+2022-09-22 22:36:22,625:INFO:*******Tax Details are Added********
+2022-09-22 22:36:48,345:INFO:******Reports are included*******
+2022-09-22 22:36:49,937:INFO:*******Work Experience is added******
+2022-09-22 22:36:57,039:INFO:********Education is added*******
+2022-09-22 22:37:01,054:INFO:********Skills are added*******
+2022-09-22 22:37:06,044:INFO:********Languages are added*******
+2022-09-22 22:37:10,116:INFO:********License Details are added*******
+2022-09-22 22:37:23,184:INFO:*******Membership is added******
+2022-09-22 22:37:23,184:INFO:******Ending tc002_PIM_CreateNewEmployee******
+2022-09-22 22:38:25,748:INFO:====== WebDriver manager ======
+2022-09-22 22:38:26,338:INFO:Get LATEST geckodriver version for 104.0 firefox
+2022-09-22 22:38:27,416:INFO:Driver [C:\Users\vk3le\.wdm\drivers\geckodriver\win64\0.31\geckodriver.exe] found in cache
+2022-09-22 22:38:40,004:INFO:********tc002 PIM-Creating New Employee******

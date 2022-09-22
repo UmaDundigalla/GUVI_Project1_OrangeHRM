@@ -566,8 +566,9 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 DevTools listening on ws://localhost:51351/devtools/browser/7895b9fe-0db2-4db1-85c9-c100f9c31f5b
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
-1663798807042	geckodriver	INFO	Listening on 127.0.0.1:51400
-1663798810105	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51401" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vk3le\\AppData\\Local\\Temp\\rust_mozprofileP2Jdd5"
+1663801322604	Marionette	INFO	Stopped listening on port 51361
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "51401" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\vk3le\\AppData\\Local\\Temp\\rust_mozprofileP2Jdd5"
 1663798810419	Marionette	INFO	Marionette enabled
 1663798810423	Marionette	INFO	Listening on port 51412
 Read port: 51412

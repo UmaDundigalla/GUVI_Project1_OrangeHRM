@@ -1,8 +1,10 @@
 import random
 import string
 import time
+from selenium.webdriver import Keys
 from selenium.webdriver.common.by import By
-
+from selenium.webdriver.support.select import Select
+from Base.base_Driver import BaseDriver
 class CreateNewEmployee:
 #pim list
 
@@ -23,8 +25,9 @@ class CreateNewEmployee:
         self.driver = driver
 
 #### Navigating to PIM and Creating New Employee######
-    def pim(self, firstname, lastname):
+    def pim(self, firstname, lastname, photo):
         self.driver.find_element(By.XPATH, self.btn_add_xpath).click()
         self.driver.find_element(By.NAME, self.txt_firstname_name).send_keys(firstname)
         self.driver.find_element(By.NAME, self.txt_lastname_name).send_keys(lastname)
+        self.driver.find_element(By.XPATH,self.btn_addimg_xpath).send_keys(photo)
         self.driver.find_element(By.XPATH, self.btn_save_xpath).click()
